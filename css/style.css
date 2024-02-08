@@ -330,7 +330,6 @@ body{
         flex-direction: column;
         gap: 3px;
     }
-
 .searc{
     display: flex;
     gap: 200px;
@@ -523,6 +522,9 @@ body{
         }
         
         }
+
+    @media (max-width:)
+
 .section-section{
     
     padding: 10px 0 0 0 ;
